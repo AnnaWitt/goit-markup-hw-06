@@ -649,9 +649,6 @@ body {
   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
   color: rgba(255, 255, 255, 0.6);
   transition: border 250ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition-property: border;
-  transition-duration: 250ms;
-  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 .newsletter-input:hover,
 .newsletter-input:active,
